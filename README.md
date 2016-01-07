@@ -1,0 +1,2 @@
+# CydiaSubstrateResource
+libsubstrate.dylib
